@@ -1,12 +1,50 @@
-# React + Vite
+# SoftSell - One Page Software Resale Landing Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and modern marketing site for a fictional company **SoftSell**, built as part of a web development internship assignment.
 
-Currently, two official plugins are available:
+## 🚀 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React.js** + **Vite**
+- **Tailwind CSS v4 (alpha)**
+- **React Icons**
+- **Deployed on Vercel / Netlify** (add link once hosted)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎯 Features Implemented
+
+- **Hero Section** with CTA
+- **How It Works** (3 steps: Upload → Valuation → Get Paid)
+- **Why Choose Us** (4 trust-building points)
+- **Testimonials** (2 dummy client reviews)
+- **Contact Form** with validation
+- **Floating Chat Widget** (static, placeholder)
+- **Responsive Design** with Tailwind
+- **Dark Mode** ready styling
+
+---
+
+## 🌟 Bonus Points Covered
+
+- Logo placeholder (optional)
+- SEO meta title via `index.html`
+- Chat Widget with mock integration
+- Tailwind-based theme-ready setup
+
+---
+
+## ⏱ Time Spent
+
+- Planning + Design: ~2 hours
+- Implementation: ~5-6 hours
+- Testing & Polish: ~1 hour
+
+---
+
+## 📂 Project Setup
+
+1. Clone the repo
+2. Install dependencies:
+
+   ```bash
+   npm install
